@@ -7,5 +7,6 @@ public class T {
 	int aaa = 1;
 	int aaaa = 1;
 	int bb=1;
+	int bbb=1;
 	int _a=1;
 }
