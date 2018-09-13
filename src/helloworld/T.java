@@ -6,4 +6,5 @@ public class T {
 	int b=1; 
 	int aaa = 1;
 	int aaaa = 1;
+	int bb=1;
 }
