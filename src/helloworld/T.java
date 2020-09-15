@@ -9,4 +9,5 @@ public class T {
 	int bb=1;
 	int bbb=1;
 	int _a=1;
+	int ffdsa=2;
 }
