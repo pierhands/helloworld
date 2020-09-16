@@ -11,4 +11,5 @@ public class T {
 	int _a=1;
 	int ffdsa=2;
 	int f0 = 1; 
+	int f1 = 1; 
 }
