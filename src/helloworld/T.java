@@ -12,4 +12,5 @@ public class T {
 	int ffdsa=2;
 	int f0 = 1; 
 	int f1 = 1; 
+	int f2 =1;
 }
